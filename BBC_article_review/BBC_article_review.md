@@ -1,4 +1,4 @@
-#Natural Language Processing of BBC news archive
+# Natural Language Processing of BBC news archive
 
 This blog is to demonstrate how to use tensorflow to find relationship between words in the article and the categories to which they belong to.
 
