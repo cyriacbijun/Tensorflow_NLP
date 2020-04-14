@@ -410,6 +410,9 @@ else:
   files.download('meta.tsv')
 ```
 
+The below picture links to the Tensorflow Embedding Projector of this project, use this to understand the relation.
+
 [![See the project on Embedding Projector](Project.png)](https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/cyriacbijun/440d6ef0fb69b1271b87563d0ee4b1c3/raw/70dc1ebf4f746e097eafd616f6a6fcfd10dab504/projector_config.json)
  
 
+Thank you for reading, see you next time
