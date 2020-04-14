@@ -1,3 +1,3 @@
 ## Tensorflow NLP examples
 
- [View examples](https://github.com/cyriacbijun/Tensorflow_NLP/blob/master/index.html) 
+ [View examples](https://cyriacbijun.github.io/Tensorflow_NLP/) 
