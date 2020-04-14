@@ -409,5 +409,7 @@ else:
   files.download('vecs.tsv')
   files.download('meta.tsv')
 ```
- <iframe width=100% height=800px src="https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/cyriacbijun/440d6ef0fb69b1271b87563d0ee4b1c3/raw/70dc1ebf4f746e097eafd616f6a6fcfd10dab504/projector_config.json"  frameborder="0" > </iframe>
+
+[![See the project on Embedding Projector](Project.png)](https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/cyriacbijun/440d6ef0fb69b1271b87563d0ee4b1c3/raw/70dc1ebf4f746e097eafd616f6a6fcfd10dab504/projector_config.json)
+ 
 
