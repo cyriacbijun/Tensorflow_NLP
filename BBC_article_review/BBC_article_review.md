@@ -2,7 +2,7 @@
 
 This blog is to demonstrate how to use tensorflow to find relationship between words in the article and the categories to which they belong to.
 
-You can use the [.ipnyb notebook](https://github.com/cyriacbijun/Tensorflow_NLP/blob/master/BBC_article_review/BBC_article_review.md) that is given with the repo by downloading and starting a kernel.
+You can use the [.ipnyb notebook](https://github.com/cyriacbijun/Tensorflow_NLP/blob/master/BBC_article_review/BBC_article_review.ipynb) that is given with the repo by downloading and starting a kernel.
 
 
 *   For local computer, use [jupyter notebook](https://jupyter.org/install)

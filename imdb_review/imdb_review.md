@@ -1,9 +1,9 @@
 # Comparison of imdb_dataset with different types of Layers after Embedding Layer
 
-### The python notebook of this blog can be found at: [.ipynb notebook](https://github.com/cyriacbijun/Tensorflow_NLP/blob/master/imdb_review/imdb_review.md)
+### The python notebook of this blog can be found at: [.ipynb notebook](https://github.com/cyriacbijun/Tensorflow_NLP/blob/master/imdb_review/imdb_review.ipynb)
 
 ### Here, we compare :
-#### 1. Gated Recurrent Units(GRU)
+#### 1. Gated Recurrent Units (GRU)
 #### 2. Long short-term memory (LSTM)
 #### 3. Convolutional Layer
 
